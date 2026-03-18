@@ -1,19 +1,16 @@
-# :earth_americas: GDP dashboard template
+# GDP Dashboard - Cloud Lab Project
 
-A simple Streamlit app showing the GDP of different countries in the world.
+## 📌 Description
+This project is a web application developed using Streamlit to visualize GDP data of different countries.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+## 🚀 Live Application
+https://gdp-dashboard-ev59jr1zzw.streamlit.app
 
-### How to run it on your own machine
+## 🛠️ Technologies Used
+- Python
+- Streamlit
+- GitHub
+- Streamlit Cloud
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## 👨‍💻 Author
+Kalyan
